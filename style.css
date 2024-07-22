@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.back-img{
+    background-image: url(assest/Background.png);
+    width: auto;
+    height: 240px;
+}
+.menubar{
+    display: flex;
+}
+.sidemenu{
+    float: right;
+}
+.menu-items{
+    list-style: none;
+}
